@@ -1,11 +1,3 @@
-## Login information
-Login to the bastion server (34.253.192.154):
-User: ec2-user
-
-The Bastion host should already have the permissions set to complete this exercise below.
-You can copy the exercise to your local machine to do the exercise.
-To test and provision the resources in AWS. The AWS keys are provided in /home/ec2-user/aws-keys.txt
-
 ## Exercise
 The exercise is split in to 2 parts. The first part is to complete the VPC setup and the second part of the exercise is also to complete the setup application stack to successfully deploy this sample PHP application inside the VPC that was created in the first part of the exercise.
 
